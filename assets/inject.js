@@ -159,6 +159,8 @@ dataLazy.forEach(function(a){
     };
   };
 });
+//-----kode native banner asterra bondek-----
+(function(){injectScript([{"attr":[{"name":"async","value":"async"},{"name":"data-cfasync","value":"false"},{"name":"src","value":"//briefcasebuoyduster.com/95d545d0d3fe8be165ec9afd87ca2744/invoke.js"}],"tag":"script","inner":""},{"attr":[{"name":"id","value":"container-95d545d0d3fe8be165ec9afd87ca2744"}],"tag":"div","inner":""}],{"target":"body"});function injectScript(e,t){let n=t.target;for(let t of e){let e=t.tag,r=t.inner,o=document.createElement(e);o.innerHTML=r;let c=t.attr;for(let e of c)o.setAttribute(e.name,e.value);document.querySelector(n)&&document.querySelector(n).append(o)}}})();
 //-----kode verifikasi google-----
 (function(){injectScript([{"attr":[{"name":"name","value":"google-site-verification"},{"name":"content","value":"128ZEYs7A46Uwze-M9KdhoVHgvpiL0uIsg-iEFxSZcQ"}],"tag":"meta","inner":""}],{"target":"head"});function injectScript(e,t){let n=t.target;for(let t of e){let e=t.tag,r=t.inner,o=document.createElement(e);o.innerHTML=r;let c=t.attr;for(let e of c)o.setAttribute(e.name,e.value);document.querySelector(n)&&document.querySelector(n).append(o)}}})();
 //-----kode histats-----
